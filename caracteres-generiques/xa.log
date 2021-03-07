@@ -1,0 +1,19 @@
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+De 192.168.1.1 icmp_seq=7 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=8 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=9 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=10 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=11 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=12 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=13 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=14 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=15 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=16 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=17 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=18 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=19 Réseau de destination injoignable
+De 192.168.1.1 icmp_seq=20 Réseau de destination injoignable
+
+--- statistiques ping 8.8.8.8 ---
+20 paquets transmis, 0 reçus, +14 erreurs, 100 % paquets perdus, temps 19146 ms
+

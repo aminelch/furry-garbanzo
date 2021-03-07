@@ -14,4 +14,4 @@ Le caractère générique * désigne n'importe quelle suite de caractères, mêm
    $ echo * 
    $  a _a A à ami an Arbre e é émirat En état minuit zaza Zoulou
    ```
-
+- Le caractère générique ? désigne un et un seul caractère.
