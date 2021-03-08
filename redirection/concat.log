@@ -1,0 +1,10 @@
+lun. 08 mars 2021 15:37:50 CET
+total 32K
+drwxrwxr-x  2 aminelch aminelch 4,0K mars   8 15:37 .
+drwxrwxr-x 15 aminelch aminelch 4,0K mars   7 15:59 ..
+-rwxrwxr-x  1 aminelch aminelch  128 mars   8 15:37 concatener-sortie-standard.sh
+-rw-rw-r--  1 aminelch aminelch   31 mars   8 15:37 concat.log
+-rw-rw-r--  1 aminelch aminelch   43 mars   7 15:54 output
+-rw-rw-r--  1 aminelch aminelch   72 mars   7 16:02 output-error
+-rwxrwxr-x  1 aminelch aminelch  205 mars   7 16:01 redirection-vers-sortie-erreur.sh
+-rwxrwxr-x  1 aminelch aminelch  105 mars   7 15:54 redirection-vers-sortie-standard.sh
